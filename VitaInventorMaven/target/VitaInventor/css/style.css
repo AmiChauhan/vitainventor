@@ -1,0 +1,121 @@
+.mainpage
+{
+    background-image: url("../img/resumebackimg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.guideline
+{
+    background-image:linear-gradient(#0b0025, rgba(63, 61, 64, 0.53)), url("../img/r3.jpg");
+
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.text1 h3
+{
+    font-size: 5em;
+    font-family: Roboto;
+    align-items: center;
+    margin-top: 250px;
+}
+.fa-user
+{
+    position: absolute;
+    top: 20px;
+    /*padding: 10px;*/
+    /*left: 20px;*/
+}
+.login
+{
+    background-color: #515d6b;
+}
+.naaav
+{
+    background-color: rgba(0,0,0,0.1);
+}
+.navtext
+ {
+     color: white;
+ }
+.navtext:hover
+{
+    color: white;
+}
+.btnf
+{
+    background-color: #3b579d;
+}
+.btnt
+{
+    background-color: #55acee;
+}
+.btnlink
+{
+    background-color: #2189be;
+}
+.fab
+{
+    color: white;
+    padding-right: 5px;
+
+}
+.box1
+{
+    background-color: #48535f;
+}
+.fa-star
+{
+    color: white;
+}
+.box2
+{
+    background-color: #48535f;
+}
+.fa-life-ring
+{
+    color: white;
+}
+.sdo
+{
+
+    box-shadow: 5px 10px;
+
+
+
+}
+.resumecircle
+{
+    height: 90%;
+    width: 40%;
+    background-color: #3f729b;
+    border-radius: 50%;
+
+}
+.resume2_bg
+{
+  background-color: #477ebb;
+    -webkit-print-color-adjust: exact;
+}
+.resume2_text
+{
+    color:#477ebb;
+    -webkit-print-color-adjust: exact;
+}
+.resume2_underline
+{
+    height: 2px;
+    width: 100%;
+    background-color:#477ebb ;
+}
+.resume2_alignment
+{
+    text-align: left;
+}
+.resume2_fontwight
+{
+    font-weight:bolder;
+}

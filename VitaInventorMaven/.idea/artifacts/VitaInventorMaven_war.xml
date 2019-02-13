@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="VitaInventorMaven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="VitaInventor.war">
+      <element id="artifact" artifact-name="VitaInventorMaven:war exploded" />
+    </root>
+  </artifact>
+</component>

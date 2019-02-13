@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="VitaAdmin:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="VitaAdmin.war">
+      <element id="artifact" artifact-name="VitaAdmin:war exploded" />
+    </root>
+  </artifact>
+</component>
